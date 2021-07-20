@@ -1,2 +1,2 @@
-# LearnCoreJava
-Learning the core java concepts
+# Learning Core Java
+Mainly focused on core java concepts
